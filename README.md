@@ -12,13 +12,12 @@ This is the result:
 
 645 seconds to download all images.
 
-![image](http://webtest.qiniudn.com/wget.png)
+![image](http://webtest.qiniudn.com/wget.png).
 
 
-It seems that the same result with php's file_put_contents, I'll test it later.
----
+It seems that the same result with php's file_put_contents, I'll test php's function later.
 
-Dependencies:
+##Dependencies:
 
 - php (curl)
 
