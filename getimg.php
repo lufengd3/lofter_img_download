@@ -6,7 +6,7 @@ $start = time();
 
 do {
     //$pageExist = getPage($pageNum);
-    $pageExist = getPage($pageNum);
+    getPage($pageNum);
     $pageNum += 1;
 
 } while ($pageNum < 30);
