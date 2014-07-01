@@ -35,7 +35,9 @@ And the node way:
 - wget
 
 - node
+
 ---
+
 You have 3 chooice to download the images.
 
 1. execute ``` node getimg.js``` Modify the images' [save path](https://github.com/keith3/lofter_img_download/blob/master/getimg.js#L56)
