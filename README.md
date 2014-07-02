@@ -5,9 +5,9 @@ Download images from http://wanimal.lofter.com
 
 ##File Desc:
 
-- **getimg.php**---This is php download way.
-- **getimg.js**---Download by nodejs.(The code need to be cleaned...)
-- **wgetImg.sh**---If you use the php way, choose the getPage() function, you have to execute this shell script after exec the php file.
+- **getimg.php**---Download by php(curl).
+- **getimg.js**---Download by nodejs.
+- **wgetImg.sh**---Download by wget.
 
 ---
 
